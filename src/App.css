@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+html,body{
+    overflow: hidden;
+      font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  
+}
+
+
+
+
+@font-face {
+  font-family: 'PirateFont'; /* Keep the custom name */
+  src: url('./assets/fonts/Blackpearl-vPxA.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Tells the browser to use a fallback font while loading */
+}
